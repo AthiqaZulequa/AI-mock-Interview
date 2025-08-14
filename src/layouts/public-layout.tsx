@@ -1,5 +1,5 @@
 import Header from "@/components/header";
-import Footer from "@/components/footer";
+import { Footer } from "@/components/footer";
 import AuthHanlder from "@/handlers/auth-handler";
 import { Outlet } from "react-router-dom";
 
