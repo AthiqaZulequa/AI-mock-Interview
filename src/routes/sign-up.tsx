@@ -4,5 +4,3 @@ export const SignUpPage =() => {
   return <SignUp path="/signup" />
   
 };
-
-
